@@ -1,0 +1,4 @@
+In Python you can write a function.
+In Python you can create a dictionary.
+In Python you can create a class.
+In Python you can write a conditional statement.

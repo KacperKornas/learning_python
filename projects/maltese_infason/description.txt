@@ -1,0 +1,10 @@
+In Maltese Invasion, the player controls a dog that appears
+at the bottom center of the screen. The player can move the dog
+right and left using the arrow keys, and bite using the spacebar.
+When the game begins, a few dogs fills the screen and moves across
+and down the screen. The player bite the dogs and scares them.
+If the player scares all the dogs, a new group dogs appears that moves
+faster than the previous group. If any dogs hits the player's dog
+or reaches the botom of the screen, the player loses one live.
+If the player loses three lives, the geme ends.
+(Maybe there will be a collection of bones.)
